@@ -1,0 +1,1261 @@
+2023-07-23 18:44:35.978 - Ecriture demandée
+2023-07-23 18:44:36.003 - Event 1: Type 1
+2023-07-23 18:44:36.232 - Ecriture demandée
+2023-07-23 18:44:36.232 - Event 2: Type 1
+2023-07-23 18:44:36.436 - Autre événement
+2023-07-23 18:44:36.437 - Event 3: Type 2
+2023-07-23 18:44:36.990 - Autre événement
+2023-07-23 18:44:36.991 - Event 4: Type 2
+2023-07-23 18:44:37.724 - Lecture demandée
+2023-07-23 18:44:37.726 - Event 5: Type 0
+2023-07-23 18:44:37.770 - Ecriture demandée
+2023-07-23 18:44:37.771 - Event 6: Type 1
+2023-07-23 18:44:38.173 - Lecture demandée
+2023-07-23 18:44:38.174 - Event 7: Type 0
+2023-07-23 18:44:38.549 - Ecriture demandée
+2023-07-23 18:44:38.550 - Event 8: Type 1
+2023-07-23 18:44:38.551 - Autre événement
+2023-07-23 18:44:38.552 - Event 9: Type 2
+2023-07-23 18:44:38.882 - Lecture demandée
+2023-07-23 18:44:38.883 - Event 10: Type 0
+2023-07-23 18:45:09.666 - Lecture demandée
+2023-07-23 18:45:09.682 - Event 1: Type 0
+2023-07-23 18:45:10.466 - Lecture demandée
+2023-07-23 18:45:10.466 - Event 2: Type 0
+2023-07-23 18:45:10.644 - Ecriture demandée
+2023-07-23 18:45:10.645 - Event 3: Type 1
+2023-07-23 18:45:11.633 - Autre événement
+2023-07-23 18:45:11.634 - Event 4: Type 2
+2023-07-23 18:45:12.054 - Autre événement
+2023-07-23 18:45:12.056 - Event 5: Type 2
+2023-07-23 18:45:12.158 - Autre événement
+2023-07-23 18:45:12.159 - Event 6: Type 2
+2023-07-23 18:45:12.558 - Ecriture demandée
+2023-07-23 18:45:12.559 - Event 7: Type 1
+2023-07-23 18:45:13.508 - Ecriture demandée
+2023-07-23 18:45:13.509 - Event 8: Type 1
+2023-07-23 18:45:13.966 - Lecture demandée
+2023-07-23 18:45:13.967 - Event 9: Type 0
+2023-07-23 18:45:14.323 - Lecture demandée
+2023-07-23 18:45:14.324 - Event 10: Type 0
+2023-07-24 01:18:57.668 - Lecture demandée
+2023-07-24 01:18:57.718 - Event 1: Type 0
+2023-07-24 01:18:57.745 - Autre événement
+2023-07-24 01:18:57.749 - Event 2: Type 2
+2023-07-24 01:18:58.397 - Ecriture demandée
+2023-07-24 01:18:58.400 - Event 3: Type 1
+2023-07-24 01:18:58.850 - Ecriture demandée
+2023-07-24 01:18:58.851 - Event 4: Type 1
+2023-07-24 01:18:59.220 - Ecriture demandée
+2023-07-24 01:18:59.221 - Event 5: Type 1
+2023-07-24 01:19:00.123 - Autre événement
+2023-07-24 01:19:00.125 - Event 6: Type 2
+2023-07-24 01:19:00.339 - Lecture demandée
+2023-07-24 01:19:00.353 - Event 7: Type 0
+2023-07-24 01:19:01.317 - Autre événement
+2023-07-24 01:19:01.318 - Event 8: Type 2
+2023-07-24 01:19:01.465 - Autre événement
+2023-07-24 01:19:01.468 - Event 9: Type 2
+2023-07-24 01:19:02.354 - Lecture demandée
+2023-07-24 01:19:02.355 - Event 10: Type 0
+2023-07-24 01:38:47.121 - Lecture demandée
+2023-07-24 01:38:47.163 - Event 1: Type 0
+2023-07-24 01:38:47.811 - Autre événement
+2023-07-24 01:38:47.813 - Event 2: Type 2
+2023-07-24 01:38:48.726 - Ecriture demandée
+2023-07-24 01:38:48.727 - Event 3: Type 1
+2023-07-24 01:38:49.157 - Ecriture demandée
+2023-07-24 01:38:49.158 - Event 4: Type 1
+2023-07-24 01:38:49.291 - Lecture demandée
+2023-07-24 01:38:49.293 - Event 5: Type 0
+2023-07-24 01:38:49.957 - Lecture demandée
+2023-07-24 01:38:49.959 - Event 6: Type 0
+2023-07-24 01:38:50.613 - Autre événement
+2023-07-24 01:38:50.614 - Event 7: Type 2
+2023-07-24 01:38:51.030 - Ecriture demandée
+2023-07-24 01:38:51.031 - Event 8: Type 1
+2023-07-24 01:38:51.735 - Ecriture demandée
+2023-07-24 01:38:51.736 - Event 9: Type 1
+2023-07-24 01:38:52.701 - Autre événement
+2023-07-24 01:38:52.703 - Event 10: Type 2
+25-07-2023 19:43:18.830 - Autre événement
+25-07-2023 19:43:18.872 - Event 1: Type 2
+25-07-2023 19:43:19.268 - Ecriture demandée
+25-07-2023 19:43:19.269 - Event 2: Type 1
+25-07-2023 19:43:20.244 - Ecriture demandée
+25-07-2023 19:43:20.246 - Event 3: Type 1
+25-07-2023 19:43:20.808 - Autre événement
+25-07-2023 19:43:20.809 - Event 4: Type 2
+25-07-2023 19:43:20.847 - Ecriture demandée
+25-07-2023 19:43:20.848 - Event 5: Type 1
+25-07-2023 19:43:21.585 - Ecriture demandée
+25-07-2023 19:43:21.587 - Event 6: Type 1
+25-07-2023 19:43:21.827 - Autre événement
+25-07-2023 19:43:21.829 - Event 7: Type 2
+25-07-2023 19:43:21.856 - Lecture demandée
+25-07-2023 19:43:21.857 - Event 8: Type 0
+25-07-2023 19:43:22.166 - Ecriture demandée
+25-07-2023 19:43:22.173 - Event 9: Type 1
+25-07-2023 19:43:23.150 - Lecture demandée
+25-07-2023 19:43:23.151 - Event 10: Type 0
+26-07-2023 06:18:15.993 - Ecriture demandée
+26-07-2023 06:18:16.009 - Evenement 1: Type 1
+26-07-2023 06:18:16.110 - Ecriture demandée
+26-07-2023 06:18:16.111 - Evenement 2: Type 1
+26-07-2023 06:18:16.886 - Lecture demandée
+26-07-2023 06:18:16.887 - Evenement 3: Type 0
+26-07-2023 06:18:17.502 - Autre événement
+26-07-2023 06:18:17.503 - Evenement 4: Type 2
+26-07-2023 06:18:18.474 - Ecriture demandée
+26-07-2023 06:18:18.474 - Evenement 5: Type 1
+26-07-2023 06:18:19.367 - Ecriture demandée
+26-07-2023 06:18:19.368 - Evenement 6: Type 1
+26-07-2023 06:18:19.884 - Ecriture demandée
+26-07-2023 06:18:19.884 - Evenement 7: Type 1
+26-07-2023 06:18:20.784 - Ecriture demandée
+26-07-2023 06:18:20.785 - Evenement 8: Type 1
+26-07-2023 06:18:21.738 - Ecriture demandée
+26-07-2023 06:18:21.738 - Evenement 9: Type 1
+26-07-2023 06:18:22.517 - Lecture demandée
+26-07-2023 06:18:22.518 - Evenement 10: Type 0
+26-07-2023 06:18:23.366 - Autre événement
+26-07-2023 06:18:23.367 - Evenement 11: Type 2
+26-07-2023 06:18:23.670 - Ecriture demandée
+26-07-2023 06:18:23.671 - Evenement 12: Type 1
+26-07-2023 06:18:24.434 - Autre événement
+26-07-2023 06:18:24.434 - Evenement 13: Type 2
+26-07-2023 06:18:24.900 - Autre événement
+26-07-2023 06:18:24.901 - Evenement 14: Type 2
+26-07-2023 06:18:25.377 - Ecriture demandée
+26-07-2023 06:18:25.378 - Evenement 15: Type 1
+26-07-2023 06:18:25.562 - Autre événement
+26-07-2023 06:18:25.563 - Evenement 16: Type 2
+26-07-2023 06:18:26.407 - Ecriture demandée
+26-07-2023 06:18:26.407 - Evenement 17: Type 1
+26-07-2023 06:18:27.002 - Ecriture demandée
+26-07-2023 06:18:27.002 - Evenement 18: Type 1
+26-07-2023 06:18:27.173 - Lecture demandée
+26-07-2023 06:18:27.174 - Evenement 19: Type 0
+26-07-2023 06:18:27.402 - Lecture demandée
+26-07-2023 06:18:27.402 - Evenement 20: Type 0
+26-07-2023 06:18:27.806 - Lecture demandée
+26-07-2023 06:18:27.807 - Evenement 21: Type 0
+26-07-2023 06:18:28.292 - Lecture demandée
+26-07-2023 06:18:28.292 - Evenement 22: Type 0
+26-07-2023 06:18:29.011 - Ecriture demandée
+26-07-2023 06:18:29.012 - Evenement 23: Type 1
+26-07-2023 06:18:29.944 - Ecriture demandée
+26-07-2023 06:18:29.945 - Evenement 24: Type 1
+26-07-2023 06:18:30.363 - Ecriture demandée
+26-07-2023 06:18:30.364 - Evenement 25: Type 1
+26-07-2023 06:18:31.356 - Lecture demandée
+26-07-2023 06:18:31.356 - Evenement 26: Type 0
+26-07-2023 06:18:32.126 - Ecriture demandée
+26-07-2023 06:18:32.127 - Evenement 27: Type 1
+26-07-2023 06:18:32.868 - Lecture demandée
+26-07-2023 06:18:32.869 - Evenement 28: Type 0
+26-07-2023 06:18:33.251 - Ecriture demandée
+26-07-2023 06:18:33.252 - Evenement 29: Type 1
+26-07-2023 06:18:34.213 - Autre événement
+26-07-2023 06:18:34.213 - Evenement 30: Type 2
+26-07-2023 06:18:34.576 - Lecture demandée
+26-07-2023 06:18:34.577 - Evenement 31: Type 0
+26-07-2023 06:18:34.935 - Lecture demandée
+26-07-2023 06:18:34.936 - Evenement 32: Type 0
+26-07-2023 06:18:35.913 - Lecture demandée
+26-07-2023 06:18:35.914 - Evenement 33: Type 0
+26-07-2023 06:18:36.682 - Autre événement
+26-07-2023 06:18:36.682 - Evenement 34: Type 2
+26-07-2023 06:18:36.745 - Lecture demandée
+26-07-2023 06:18:36.745 - Evenement 35: Type 0
+26-07-2023 06:18:37.306 - Autre événement
+26-07-2023 06:18:37.307 - Evenement 36: Type 2
+26-07-2023 06:18:37.479 - Autre événement
+26-07-2023 06:18:37.480 - Evenement 37: Type 2
+26-07-2023 06:18:37.775 - Ecriture demandée
+26-07-2023 06:18:37.776 - Evenement 38: Type 1
+26-07-2023 06:18:37.885 - Autre événement
+26-07-2023 06:18:37.886 - Evenement 39: Type 2
+26-07-2023 06:18:38.041 - Ecriture demandée
+26-07-2023 06:18:38.042 - Evenement 40: Type 1
+26-07-2023 06:18:38.957 - Ecriture demandée
+26-07-2023 06:18:38.958 - Evenement 41: Type 1
+26-07-2023 06:18:39.868 - Ecriture demandée
+26-07-2023 06:18:39.868 - Evenement 42: Type 1
+26-07-2023 06:18:40.561 - Lecture demandée
+26-07-2023 06:18:40.562 - Evenement 43: Type 0
+26-07-2023 06:18:41.113 - Autre événement
+26-07-2023 06:18:41.113 - Evenement 44: Type 2
+26-07-2023 06:18:41.225 - Autre événement
+26-07-2023 06:18:41.228 - Evenement 45: Type 2
+26-07-2023 06:18:42.230 - Ecriture demandée
+26-07-2023 06:18:42.231 - Evenement 46: Type 1
+26-07-2023 06:18:42.277 - Ecriture demandée
+26-07-2023 06:18:42.277 - Evenement 47: Type 1
+26-07-2023 06:18:42.526 - Lecture demandée
+26-07-2023 06:18:42.527 - Evenement 48: Type 0
+26-07-2023 06:18:42.936 - Autre événement
+26-07-2023 06:18:42.937 - Evenement 49: Type 2
+26-07-2023 06:18:43.928 - Lecture demandée
+26-07-2023 06:18:43.928 - Evenement 50: Type 0
+26-07-2023 06:18:44.164 - Ecriture demandée
+26-07-2023 06:18:44.165 - Evenement 51: Type 1
+26-07-2023 06:18:44.981 - Autre événement
+26-07-2023 06:18:44.982 - Evenement 52: Type 2
+26-07-2023 06:18:45.283 - Ecriture demandée
+26-07-2023 06:18:45.284 - Evenement 53: Type 1
+26-07-2023 06:18:46.038 - Lecture demandée
+26-07-2023 06:18:46.039 - Evenement 54: Type 0
+26-07-2023 06:18:46.634 - Autre événement
+26-07-2023 06:18:46.635 - Evenement 55: Type 2
+26-07-2023 06:18:47.497 - Ecriture demandée
+26-07-2023 06:18:47.498 - Evenement 56: Type 1
+26-07-2023 06:18:48.109 - Lecture demandée
+26-07-2023 06:18:48.109 - Evenement 57: Type 0
+26-07-2023 06:18:48.566 - Lecture demandée
+26-07-2023 06:18:48.567 - Evenement 58: Type 0
+26-07-2023 06:18:48.646 - Autre événement
+26-07-2023 06:18:48.647 - Evenement 59: Type 2
+26-07-2023 06:18:49.417 - Autre événement
+26-07-2023 06:18:49.417 - Evenement 60: Type 2
+26-07-2023 06:18:49.872 - Ecriture demandée
+26-07-2023 06:18:49.873 - Evenement 61: Type 1
+26-07-2023 06:18:50.691 - Autre événement
+26-07-2023 06:18:50.692 - Evenement 62: Type 2
+26-07-2023 06:18:51.571 - Ecriture demandée
+26-07-2023 06:18:51.571 - Evenement 63: Type 1
+26-07-2023 06:18:51.634 - Lecture demandée
+26-07-2023 06:18:51.634 - Evenement 64: Type 0
+26-07-2023 06:18:52.202 - Ecriture demandée
+26-07-2023 06:18:52.203 - Evenement 65: Type 1
+26-07-2023 06:18:52.217 - Autre événement
+26-07-2023 06:18:52.218 - Evenement 66: Type 2
+26-07-2023 06:18:52.653 - Ecriture demandée
+26-07-2023 06:18:52.654 - Evenement 67: Type 1
+26-07-2023 06:18:52.716 - Autre événement
+26-07-2023 06:18:52.717 - Evenement 68: Type 2
+26-07-2023 06:18:52.875 - Autre événement
+26-07-2023 06:18:52.877 - Evenement 69: Type 2
+26-07-2023 06:18:53.814 - Ecriture demandée
+26-07-2023 06:18:53.815 - Evenement 70: Type 1
+26-07-2023 06:18:54.131 - Ecriture demandée
+26-07-2023 06:18:54.131 - Evenement 71: Type 1
+26-07-2023 06:18:54.977 - Ecriture demandée
+26-07-2023 06:18:54.978 - Evenement 72: Type 1
+26-07-2023 06:18:55.777 - Autre événement
+26-07-2023 06:18:55.778 - Evenement 73: Type 2
+26-07-2023 06:18:56.200 - Lecture demandée
+26-07-2023 06:18:56.201 - Evenement 74: Type 0
+26-07-2023 06:18:56.942 - Ecriture demandée
+26-07-2023 06:18:56.943 - Evenement 75: Type 1
+26-07-2023 06:18:57.635 - Autre événement
+26-07-2023 06:18:57.636 - Evenement 76: Type 2
+26-07-2023 06:18:58.107 - Ecriture demandée
+26-07-2023 06:18:58.107 - Evenement 77: Type 1
+26-07-2023 06:18:59.082 - Lecture demandée
+26-07-2023 06:18:59.082 - Evenement 78: Type 0
+26-07-2023 06:18:59.176 - Lecture demandée
+26-07-2023 06:18:59.177 - Evenement 79: Type 0
+26-07-2023 06:18:59.569 - Autre événement
+26-07-2023 06:18:59.570 - Evenement 80: Type 2
+26-07-2023 06:19:00.245 - Ecriture demandée
+26-07-2023 06:19:00.246 - Evenement 81: Type 1
+26-07-2023 06:19:00.512 - Lecture demandée
+26-07-2023 06:19:00.513 - Evenement 82: Type 0
+26-07-2023 06:19:00.733 - Lecture demandée
+26-07-2023 06:19:00.734 - Evenement 83: Type 0
+26-07-2023 06:19:01.677 - Autre événement
+26-07-2023 06:19:01.678 - Evenement 84: Type 2
+26-07-2023 06:19:01.754 - Autre événement
+26-07-2023 06:19:01.754 - Evenement 85: Type 2
+26-07-2023 06:19:01.786 - Lecture demandée
+26-07-2023 06:19:01.787 - Evenement 86: Type 0
+26-07-2023 06:19:02.132 - Autre événement
+26-07-2023 06:19:02.133 - Evenement 87: Type 2
+26-07-2023 06:19:02.998 - Ecriture demandée
+26-07-2023 06:19:02.999 - Evenement 88: Type 1
+26-07-2023 06:19:03.642 - Ecriture demandée
+26-07-2023 06:19:03.642 - Evenement 89: Type 1
+26-07-2023 06:19:03.926 - Lecture demandée
+26-07-2023 06:19:03.927 - Evenement 90: Type 0
+26-07-2023 06:19:04.703 - Autre événement
+26-07-2023 06:19:04.704 - Evenement 91: Type 2
+26-07-2023 06:19:05.360 - Autre événement
+26-07-2023 06:19:05.360 - Evenement 92: Type 2
+26-07-2023 06:19:06.313 - Autre événement
+26-07-2023 06:19:06.313 - Evenement 93: Type 2
+26-07-2023 06:19:07.207 - Autre événement
+26-07-2023 06:19:07.207 - Evenement 94: Type 2
+26-07-2023 06:19:07.583 - Lecture demandée
+26-07-2023 06:19:07.583 - Evenement 95: Type 0
+26-07-2023 06:19:08.419 - Ecriture demandée
+26-07-2023 06:19:08.420 - Evenement 96: Type 1
+26-07-2023 06:19:08.639 - Autre événement
+26-07-2023 06:19:08.640 - Evenement 97: Type 2
+26-07-2023 06:19:08.655 - Ecriture demandée
+26-07-2023 06:19:08.655 - Evenement 98: Type 1
+26-07-2023 06:19:09.318 - Ecriture demandée
+26-07-2023 06:19:09.319 - Evenement 99: Type 1
+26-07-2023 06:19:09.664 - Autre événement
+26-07-2023 06:19:09.665 - Evenement 100: Type 2
+26-07-2023 06:19:51.489 - Lecture demandée
+26-07-2023 06:19:51.506 - Evenement 1: Type 0
+26-07-2023 06:19:52.044 - Lecture demandée
+26-07-2023 06:19:52.045 - Evenement 2: Type 0
+26-07-2023 06:19:52.990 - Autre événement
+26-07-2023 06:19:52.991 - Evenement 3: Type 2
+26-07-2023 06:19:53.456 - Ecriture demandée
+26-07-2023 06:19:53.457 - Evenement 4: Type 1
+26-07-2023 06:19:53.963 - Autre événement
+26-07-2023 06:19:53.964 - Evenement 5: Type 2
+26-07-2023 06:19:54.599 - Ecriture demandée
+26-07-2023 06:19:54.599 - Evenement 6: Type 1
+26-07-2023 06:19:55.548 - Lecture demandée
+26-07-2023 06:19:55.549 - Evenement 7: Type 0
+26-07-2023 06:19:55.808 - Lecture demandée
+26-07-2023 06:19:55.808 - Evenement 8: Type 0
+26-07-2023 06:19:56.633 - Lecture demandée
+26-07-2023 06:19:56.633 - Evenement 9: Type 0
+26-07-2023 06:19:57.420 - Autre événement
+26-07-2023 06:19:57.420 - Evenement 10: Type 2
+26-07-2023 06:19:58.044 - Ecriture demandée
+26-07-2023 06:19:58.045 - Evenement 11: Type 1
+26-07-2023 06:19:58.650 - Autre événement
+26-07-2023 06:19:58.651 - Evenement 12: Type 2
+26-07-2023 06:19:59.560 - Autre événement
+26-07-2023 06:19:59.560 - Evenement 13: Type 2
+26-07-2023 06:19:59.705 - Lecture demandée
+26-07-2023 06:19:59.706 - Evenement 14: Type 0
+26-07-2023 06:20:00.341 - Ecriture demandée
+26-07-2023 06:20:00.341 - Evenement 15: Type 1
+26-07-2023 06:20:01.189 - Ecriture demandée
+26-07-2023 06:20:01.190 - Evenement 16: Type 1
+26-07-2023 06:20:01.298 - Autre événement
+26-07-2023 06:20:01.298 - Evenement 17: Type 2
+26-07-2023 06:20:01.724 - Ecriture demandée
+26-07-2023 06:20:01.725 - Evenement 18: Type 1
+26-07-2023 06:20:02.351 - Lecture demandée
+26-07-2023 06:20:02.352 - Evenement 19: Type 0
+26-07-2023 06:20:02.728 - Ecriture demandée
+26-07-2023 06:20:02.729 - Evenement 20: Type 1
+26-07-2023 06:20:02.776 - Ecriture demandée
+26-07-2023 06:20:02.777 - Evenement 21: Type 1
+26-07-2023 06:20:03.118 - Lecture demandée
+26-07-2023 06:20:03.119 - Evenement 22: Type 0
+26-07-2023 06:20:03.938 - Autre événement
+26-07-2023 06:20:03.938 - Evenement 23: Type 2
+26-07-2023 06:20:04.812 - Autre événement
+26-07-2023 06:20:04.813 - Evenement 24: Type 2
+26-07-2023 06:20:05.243 - Lecture demandée
+26-07-2023 06:20:05.244 - Evenement 25: Type 0
+26-07-2023 06:20:05.514 - Autre événement
+26-07-2023 06:20:05.515 - Evenement 26: Type 2
+26-07-2023 06:20:06.423 - Ecriture demandée
+26-07-2023 06:20:06.424 - Evenement 27: Type 1
+26-07-2023 06:20:06.674 - Ecriture demandée
+26-07-2023 06:20:06.675 - Evenement 28: Type 1
+26-07-2023 06:20:07.560 - Lecture demandée
+26-07-2023 06:20:07.561 - Evenement 29: Type 0
+26-07-2023 06:20:07.586 - Ecriture demandée
+26-07-2023 06:20:07.587 - Evenement 30: Type 1
+26-07-2023 06:20:08.173 - Lecture demandée
+26-07-2023 06:20:08.174 - Evenement 31: Type 0
+26-07-2023 06:20:08.303 - Lecture demandée
+26-07-2023 06:20:08.304 - Evenement 32: Type 0
+26-07-2023 06:20:08.382 - Autre événement
+26-07-2023 06:20:08.382 - Evenement 33: Type 2
+26-07-2023 06:20:09.070 - Ecriture demandée
+26-07-2023 06:20:09.070 - Evenement 34: Type 1
+26-07-2023 06:20:09.220 - Lecture demandée
+26-07-2023 06:20:09.220 - Evenement 35: Type 0
+26-07-2023 06:20:09.836 - Ecriture demandée
+26-07-2023 06:20:09.836 - Evenement 36: Type 1
+26-07-2023 06:20:10.036 - Ecriture demandée
+26-07-2023 06:20:10.036 - Evenement 37: Type 1
+26-07-2023 06:20:10.233 - Lecture demandée
+26-07-2023 06:20:10.234 - Evenement 38: Type 0
+26-07-2023 06:20:10.248 - Ecriture demandée
+26-07-2023 06:20:10.249 - Evenement 39: Type 1
+26-07-2023 06:20:10.634 - Autre événement
+26-07-2023 06:20:10.635 - Evenement 40: Type 2
+26-07-2023 06:20:11.611 - Ecriture demandée
+26-07-2023 06:20:11.612 - Evenement 41: Type 1
+26-07-2023 06:20:11.935 - Lecture demandée
+26-07-2023 06:20:11.935 - Evenement 42: Type 0
+26-07-2023 06:20:12.508 - Ecriture demandée
+26-07-2023 06:20:12.509 - Evenement 43: Type 1
+26-07-2023 06:20:13.309 - Ecriture demandée
+26-07-2023 06:20:13.309 - Evenement 44: Type 1
+26-07-2023 06:20:13.369 - Autre événement
+26-07-2023 06:20:13.369 - Evenement 45: Type 2
+26-07-2023 06:20:14.164 - Ecriture demandée
+26-07-2023 06:20:14.165 - Evenement 46: Type 1
+26-07-2023 06:20:14.546 - Autre événement
+26-07-2023 06:20:14.546 - Evenement 47: Type 2
+26-07-2023 06:20:15.146 - Ecriture demandée
+26-07-2023 06:20:15.146 - Evenement 48: Type 1
+26-07-2023 06:20:15.455 - Autre événement
+26-07-2023 06:20:15.456 - Evenement 49: Type 2
+26-07-2023 06:20:15.784 - Lecture demandée
+26-07-2023 06:20:15.784 - Evenement 50: Type 0
+26-07-2023 06:20:16.504 - Ecriture demandée
+26-07-2023 06:20:16.504 - Evenement 51: Type 1
+26-07-2023 06:20:16.879 - Ecriture demandée
+26-07-2023 06:20:16.880 - Evenement 52: Type 1
+26-07-2023 06:20:17.184 - Ecriture demandée
+26-07-2023 06:20:17.184 - Evenement 53: Type 1
+26-07-2023 06:20:17.349 - Ecriture demandée
+26-07-2023 06:20:17.350 - Evenement 54: Type 1
+26-07-2023 06:20:17.648 - Ecriture demandée
+26-07-2023 06:20:17.649 - Evenement 55: Type 1
+26-07-2023 06:20:18.487 - Autre événement
+26-07-2023 06:20:18.487 - Evenement 56: Type 2
+26-07-2023 06:20:18.599 - Lecture demandée
+26-07-2023 06:20:18.599 - Evenement 57: Type 0
+26-07-2023 06:20:18.852 - Autre événement
+26-07-2023 06:20:18.852 - Evenement 58: Type 2
+26-07-2023 06:20:19.040 - Ecriture demandée
+26-07-2023 06:20:19.040 - Evenement 59: Type 1
+26-07-2023 06:20:19.929 - Ecriture demandée
+26-07-2023 06:20:19.930 - Evenement 60: Type 1
+26-07-2023 06:20:20.510 - Autre événement
+26-07-2023 06:20:20.511 - Evenement 61: Type 2
+26-07-2023 06:20:20.549 - Lecture demandée
+26-07-2023 06:20:20.549 - Evenement 62: Type 0
+26-07-2023 06:20:20.640 - Lecture demandée
+26-07-2023 06:20:20.641 - Evenement 63: Type 0
+26-07-2023 06:20:20.986 - Autre événement
+26-07-2023 06:20:20.986 - Evenement 64: Type 2
+26-07-2023 06:20:21.506 - Autre événement
+26-07-2023 06:20:21.507 - Evenement 65: Type 2
+26-07-2023 06:20:21.957 - Ecriture demandée
+26-07-2023 06:20:21.958 - Evenement 66: Type 1
+26-07-2023 06:20:22.484 - Autre événement
+26-07-2023 06:20:22.484 - Evenement 67: Type 2
+26-07-2023 06:20:22.989 - Lecture demandée
+26-07-2023 06:20:22.989 - Evenement 68: Type 0
+26-07-2023 06:20:23.779 - Ecriture demandée
+26-07-2023 06:20:23.779 - Evenement 69: Type 1
+26-07-2023 06:20:23.892 - Ecriture demandée
+26-07-2023 06:20:23.892 - Evenement 70: Type 1
+26-07-2023 06:20:24.616 - Autre événement
+26-07-2023 06:20:24.617 - Evenement 71: Type 2
+26-07-2023 06:20:25.248 - Ecriture demandée
+26-07-2023 06:20:25.248 - Evenement 72: Type 1
+26-07-2023 06:20:25.407 - Lecture demandée
+26-07-2023 06:20:25.408 - Evenement 73: Type 0
+26-07-2023 06:20:25.785 - Ecriture demandée
+26-07-2023 06:20:25.786 - Evenement 74: Type 1
+26-07-2023 06:20:26.291 - Lecture demandée
+26-07-2023 06:20:26.291 - Evenement 75: Type 0
+26-07-2023 06:20:27.236 - Ecriture demandée
+26-07-2023 06:20:27.237 - Evenement 76: Type 1
+26-07-2023 06:20:27.663 - Ecriture demandée
+26-07-2023 06:20:27.664 - Evenement 77: Type 1
+26-07-2023 06:20:28.366 - Lecture demandée
+26-07-2023 06:20:28.367 - Evenement 78: Type 0
+26-07-2023 06:20:29.130 - Lecture demandée
+26-07-2023 06:20:29.130 - Evenement 79: Type 0
+26-07-2023 06:20:29.539 - Autre événement
+26-07-2023 06:20:29.540 - Evenement 80: Type 2
+26-07-2023 06:20:30.276 - Ecriture demandée
+26-07-2023 06:20:30.276 - Evenement 81: Type 1
+26-07-2023 06:20:30.716 - Autre événement
+26-07-2023 06:20:30.717 - Evenement 82: Type 2
+26-07-2023 06:20:31.631 - Lecture demandée
+26-07-2023 06:20:31.632 - Evenement 83: Type 0
+26-07-2023 06:20:31.646 - Ecriture demandée
+26-07-2023 06:20:31.646 - Evenement 84: Type 1
+26-07-2023 06:20:31.968 - Lecture demandée
+26-07-2023 06:20:31.969 - Evenement 85: Type 0
+26-07-2023 06:20:32.423 - Lecture demandée
+26-07-2023 06:20:32.423 - Evenement 86: Type 0
+26-07-2023 06:20:33.380 - Ecriture demandée
+26-07-2023 06:20:33.380 - Evenement 87: Type 1
+26-07-2023 06:20:34.368 - Autre événement
+26-07-2023 06:20:34.369 - Evenement 88: Type 2
+26-07-2023 06:20:34.804 - Lecture demandée
+26-07-2023 06:20:34.805 - Evenement 89: Type 0
+26-07-2023 06:20:35.744 - Lecture demandée
+26-07-2023 06:20:35.744 - Evenement 90: Type 0
+26-07-2023 06:20:35.953 - Lecture demandée
+26-07-2023 06:20:35.954 - Evenement 91: Type 0
+26-07-2023 06:20:35.961 - Autre événement
+26-07-2023 06:20:35.961 - Evenement 92: Type 2
+26-07-2023 06:20:36.317 - Ecriture demandée
+26-07-2023 06:20:36.317 - Evenement 93: Type 1
+26-07-2023 06:20:36.689 - Lecture demandée
+26-07-2023 06:20:36.690 - Evenement 94: Type 0
+26-07-2023 06:20:36.852 - Autre événement
+26-07-2023 06:20:36.852 - Evenement 95: Type 2
+26-07-2023 06:20:37.683 - Ecriture demandée
+26-07-2023 06:20:37.684 - Evenement 96: Type 1
+26-07-2023 06:20:38.644 - Ecriture demandée
+26-07-2023 06:20:38.644 - Evenement 97: Type 1
+26-07-2023 06:20:38.896 - Lecture demandée
+26-07-2023 06:20:38.896 - Evenement 98: Type 0
+26-07-2023 06:20:39.230 - Lecture demandée
+26-07-2023 06:20:39.230 - Evenement 99: Type 0
+26-07-2023 06:20:39.411 - Lecture demandée
+26-07-2023 06:20:39.412 - Evenement 100: Type 0
+31-08-2023 21:21:36.852 - Autre événement
+31-08-2023 21:21:36.875 - Evenement 1: Type 2
+31-08-2023 21:21:37.296 - Ecriture demandée
+31-08-2023 21:21:37.296 - Evenement 2: Type 1
+31-08-2023 21:21:37.425 - Ecriture demandée
+31-08-2023 21:21:37.426 - Evenement 3: Type 1
+31-08-2023 21:21:38.343 - Lecture demandée
+31-08-2023 21:21:38.344 - Evenement 4: Type 0
+31-08-2023 21:21:39.260 - Lecture demandée
+31-08-2023 21:21:39.261 - Evenement 5: Type 0
+31-08-2023 21:21:39.364 - Autre événement
+31-08-2023 21:21:39.365 - Evenement 6: Type 2
+31-08-2023 21:21:39.909 - Lecture demandée
+31-08-2023 21:21:39.909 - Evenement 7: Type 0
+31-08-2023 21:21:40.175 - Autre événement
+31-08-2023 21:21:40.176 - Evenement 8: Type 2
+31-08-2023 21:21:40.804 - Autre événement
+31-08-2023 21:21:40.804 - Evenement 9: Type 2
+31-08-2023 21:21:41.246 - Lecture demandée
+31-08-2023 21:21:41.246 - Evenement 10: Type 0
+31-08-2023 21:21:41.285 - Autre événement
+31-08-2023 21:21:41.286 - Evenement 11: Type 2
+31-08-2023 21:21:41.650 - Autre événement
+31-08-2023 21:21:41.651 - Evenement 12: Type 2
+31-08-2023 21:21:41.886 - Autre événement
+31-08-2023 21:21:41.887 - Evenement 13: Type 2
+31-08-2023 21:21:42.369 - Ecriture demandée
+31-08-2023 21:21:42.369 - Evenement 14: Type 1
+31-08-2023 21:21:42.420 - Ecriture demandée
+31-08-2023 21:21:42.421 - Evenement 15: Type 1
+31-08-2023 21:21:42.578 - Ecriture demandée
+31-08-2023 21:21:42.579 - Evenement 16: Type 1
+31-08-2023 21:21:43.326 - Lecture demandée
+31-08-2023 21:21:43.326 - Evenement 17: Type 0
+31-08-2023 21:21:43.520 - Autre événement
+31-08-2023 21:21:43.520 - Evenement 18: Type 2
+31-08-2023 21:21:43.764 - Ecriture demandée
+31-08-2023 21:21:43.764 - Evenement 19: Type 1
+31-08-2023 21:21:44.394 - Ecriture demandée
+31-08-2023 21:21:44.395 - Evenement 20: Type 1
+31-08-2023 21:21:45.336 - Autre événement
+31-08-2023 21:21:45.337 - Evenement 21: Type 2
+31-08-2023 21:21:46.162 - Ecriture demandée
+31-08-2023 21:21:46.163 - Evenement 22: Type 1
+31-08-2023 21:21:46.475 - Autre événement
+31-08-2023 21:21:46.476 - Evenement 23: Type 2
+31-08-2023 21:21:47.325 - Ecriture demandée
+31-08-2023 21:21:47.326 - Evenement 24: Type 1
+31-08-2023 21:21:48.004 - Autre événement
+31-08-2023 21:21:48.004 - Evenement 25: Type 2
+31-08-2023 21:21:48.833 - Lecture demandée
+31-08-2023 21:21:48.834 - Evenement 26: Type 0
+31-08-2023 21:21:49.432 - Ecriture demandée
+31-08-2023 21:21:49.432 - Evenement 27: Type 1
+31-08-2023 21:21:49.472 - Autre événement
+31-08-2023 21:21:49.473 - Evenement 28: Type 2
+31-08-2023 21:21:50.378 - Ecriture demandée
+31-08-2023 21:21:50.379 - Evenement 29: Type 1
+31-08-2023 21:21:51.375 - Ecriture demandée
+31-08-2023 21:21:51.376 - Evenement 30: Type 1
+31-08-2023 21:21:52.344 - Ecriture demandée
+31-08-2023 21:21:52.344 - Evenement 31: Type 1
+31-08-2023 21:21:52.528 - Autre événement
+31-08-2023 21:21:52.529 - Evenement 32: Type 2
+31-08-2023 21:21:52.577 - Ecriture demandée
+31-08-2023 21:21:52.578 - Evenement 33: Type 1
+31-08-2023 21:21:53.161 - Ecriture demandée
+31-08-2023 21:21:53.161 - Evenement 34: Type 1
+31-08-2023 21:21:54.116 - Ecriture demandée
+31-08-2023 21:21:54.116 - Evenement 35: Type 1
+31-08-2023 21:21:54.433 - Autre événement
+31-08-2023 21:21:54.433 - Evenement 36: Type 2
+31-08-2023 21:21:54.669 - Ecriture demandée
+31-08-2023 21:21:54.669 - Evenement 37: Type 1
+31-08-2023 21:21:55.648 - Ecriture demandée
+31-08-2023 21:21:55.648 - Evenement 38: Type 1
+31-08-2023 21:21:56.288 - Autre événement
+31-08-2023 21:21:56.289 - Evenement 39: Type 2
+31-08-2023 21:21:57.207 - Ecriture demandée
+31-08-2023 21:21:57.208 - Evenement 40: Type 1
+31-08-2023 21:21:58.106 - Autre événement
+31-08-2023 21:21:58.108 - Evenement 41: Type 2
+31-08-2023 21:21:58.799 - Autre événement
+31-08-2023 21:21:58.799 - Evenement 42: Type 2
+31-08-2023 21:21:59.615 - Lecture demandée
+31-08-2023 21:21:59.616 - Evenement 43: Type 0
+31-08-2023 21:22:00.326 - Ecriture demandée
+31-08-2023 21:22:00.326 - Evenement 44: Type 1
+31-08-2023 21:22:00.634 - Lecture demandée
+31-08-2023 21:22:00.634 - Evenement 45: Type 0
+31-08-2023 21:22:01.325 - Ecriture demandée
+31-08-2023 21:22:01.325 - Evenement 46: Type 1
+31-08-2023 21:22:01.636 - Autre événement
+31-08-2023 21:22:01.636 - Evenement 47: Type 2
+31-08-2023 21:22:02.392 - Autre événement
+31-08-2023 21:22:02.392 - Evenement 48: Type 2
+31-08-2023 21:22:02.992 - Ecriture demandée
+31-08-2023 21:22:02.993 - Evenement 49: Type 1
+31-08-2023 21:22:03.526 - Ecriture demandée
+31-08-2023 21:22:03.527 - Evenement 50: Type 1
+31-08-2023 21:22:03.806 - Ecriture demandée
+31-08-2023 21:22:03.806 - Evenement 51: Type 1
+31-08-2023 21:22:04.363 - Autre événement
+31-08-2023 21:22:04.364 - Evenement 52: Type 2
+31-08-2023 21:22:04.650 - Ecriture demandée
+31-08-2023 21:22:04.651 - Evenement 53: Type 1
+31-08-2023 21:22:05.428 - Ecriture demandée
+31-08-2023 21:22:05.428 - Evenement 54: Type 1
+31-08-2023 21:22:06.053 - Lecture demandée
+31-08-2023 21:22:06.053 - Evenement 55: Type 0
+31-08-2023 21:22:06.922 - Lecture demandée
+31-08-2023 21:22:06.923 - Evenement 56: Type 0
+31-08-2023 21:22:07.189 - Autre événement
+31-08-2023 21:22:07.189 - Evenement 57: Type 2
+31-08-2023 21:22:07.766 - Lecture demandée
+31-08-2023 21:22:07.766 - Evenement 58: Type 0
+31-08-2023 21:22:08.331 - Ecriture demandée
+31-08-2023 21:22:08.331 - Evenement 59: Type 1
+31-08-2023 21:22:08.510 - Ecriture demandée
+31-08-2023 21:22:08.510 - Evenement 60: Type 1
+31-08-2023 21:22:08.988 - Autre événement
+31-08-2023 21:22:08.988 - Evenement 61: Type 2
+31-08-2023 21:22:09.721 - Ecriture demandée
+31-08-2023 21:22:09.721 - Evenement 62: Type 1
+31-08-2023 21:22:10.270 - Autre événement
+31-08-2023 21:22:10.271 - Evenement 63: Type 2
+31-08-2023 21:22:11.178 - Autre événement
+31-08-2023 21:22:11.179 - Evenement 64: Type 2
+31-08-2023 21:22:11.768 - Autre événement
+31-08-2023 21:22:11.768 - Evenement 65: Type 2
+31-08-2023 21:22:11.943 - Autre événement
+31-08-2023 21:22:11.943 - Evenement 66: Type 2
+31-08-2023 21:22:11.956 - Lecture demandée
+31-08-2023 21:22:11.956 - Evenement 67: Type 0
+31-08-2023 21:22:12.402 - Ecriture demandée
+31-08-2023 21:22:12.402 - Evenement 68: Type 1
+31-08-2023 21:22:12.639 - Lecture demandée
+31-08-2023 21:22:12.640 - Evenement 69: Type 0
+31-08-2023 21:22:13.024 - Lecture demandée
+31-08-2023 21:22:13.024 - Evenement 70: Type 0
+31-08-2023 21:22:13.037 - Autre événement
+31-08-2023 21:22:13.038 - Evenement 71: Type 2
+31-08-2023 21:22:13.895 - Ecriture demandée
+31-08-2023 21:22:13.895 - Evenement 72: Type 1
+31-08-2023 21:22:13.989 - Autre événement
+31-08-2023 21:22:13.990 - Evenement 73: Type 2
+31-08-2023 21:22:14.356 - Lecture demandée
+31-08-2023 21:22:14.356 - Evenement 74: Type 0
+31-08-2023 21:22:14.754 - Lecture demandée
+31-08-2023 21:22:14.755 - Evenement 75: Type 0
+31-08-2023 21:22:14.868 - Autre événement
+31-08-2023 21:22:14.868 - Evenement 76: Type 2
+31-08-2023 21:22:15.696 - Lecture demandée
+31-08-2023 21:22:15.696 - Evenement 77: Type 0
+31-08-2023 21:22:16.164 - Lecture demandée
+31-08-2023 21:22:16.164 - Evenement 78: Type 0
+31-08-2023 21:22:16.228 - Ecriture demandée
+31-08-2023 21:22:16.228 - Evenement 79: Type 1
+31-08-2023 21:22:16.808 - Autre événement
+31-08-2023 21:22:16.809 - Evenement 80: Type 2
+31-08-2023 21:22:16.998 - Autre événement
+31-08-2023 21:22:16.999 - Evenement 81: Type 2
+31-08-2023 21:22:17.496 - Lecture demandée
+31-08-2023 21:22:17.497 - Evenement 82: Type 0
+31-08-2023 21:22:18.074 - Autre événement
+31-08-2023 21:22:18.075 - Evenement 83: Type 2
+31-08-2023 21:22:18.621 - Lecture demandée
+31-08-2023 21:22:18.621 - Evenement 84: Type 0
+31-08-2023 21:22:19.075 - Ecriture demandée
+31-08-2023 21:22:19.075 - Evenement 85: Type 1
+31-08-2023 21:22:19.154 - Lecture demandée
+31-08-2023 21:22:19.155 - Evenement 86: Type 0
+31-08-2023 21:22:19.389 - Autre événement
+31-08-2023 21:22:19.390 - Evenement 87: Type 2
+31-08-2023 21:22:19.640 - Ecriture demandée
+31-08-2023 21:22:19.641 - Evenement 88: Type 1
+31-08-2023 21:22:19.656 - Autre événement
+31-08-2023 21:22:19.657 - Evenement 89: Type 2
+31-08-2023 21:22:20.397 - Lecture demandée
+31-08-2023 21:22:20.397 - Evenement 90: Type 0
+31-08-2023 21:22:21.261 - Lecture demandée
+31-08-2023 21:22:21.261 - Evenement 91: Type 0
+31-08-2023 21:22:21.514 - Ecriture demandée
+31-08-2023 21:22:21.515 - Evenement 92: Type 1
+31-08-2023 21:22:22.092 - Lecture demandée
+31-08-2023 21:22:22.092 - Evenement 93: Type 0
+31-08-2023 21:22:22.637 - Ecriture demandée
+31-08-2023 21:22:22.638 - Evenement 94: Type 1
+31-08-2023 21:22:23.310 - Ecriture demandée
+31-08-2023 21:22:23.311 - Evenement 95: Type 1
+31-08-2023 21:22:23.748 - Ecriture demandée
+31-08-2023 21:22:23.749 - Evenement 96: Type 1
+31-08-2023 21:22:24.174 - Lecture demandée
+31-08-2023 21:22:24.175 - Evenement 97: Type 0
+31-08-2023 21:22:24.411 - Lecture demandée
+31-08-2023 21:22:24.412 - Evenement 98: Type 0
+31-08-2023 21:22:24.725 - Ecriture demandée
+31-08-2023 21:22:24.725 - Evenement 99: Type 1
+31-08-2023 21:22:25.150 - Autre événement
+31-08-2023 21:22:25.151 - Evenement 100: Type 2
+31-08-2023 21:38:34.409 - Autre événement
+31-08-2023 21:38:34.422 - Evenement 1: Type 2
+31-08-2023 21:38:35.006 - Autre événement
+31-08-2023 21:38:35.006 - Evenement 2: Type 2
+31-08-2023 21:38:35.141 - Autre événement
+31-08-2023 21:38:35.142 - Evenement 3: Type 2
+31-08-2023 21:38:35.720 - Ecriture demandée
+31-08-2023 21:38:35.721 - Evenement 4: Type 1
+31-08-2023 21:38:36.228 - Lecture demandée
+31-08-2023 21:38:36.228 - Evenement 5: Type 0
+31-08-2023 21:38:36.864 - Evenement 6: Type 3
+31-08-2023 21:38:36.919 - Lecture demandée
+31-08-2023 21:38:36.920 - Evenement 7: Type 0
+31-08-2023 21:38:37.687 - Evenement 8: Type 3
+31-08-2023 21:38:37.977 - Ecriture demandée
+31-08-2023 21:38:37.977 - Evenement 9: Type 1
+31-08-2023 21:38:38.062 - Lecture demandée
+31-08-2023 21:38:38.062 - Evenement 10: Type 0
+31-08-2023 21:43:34.042 - Autre événement aleatoire
+31-08-2023 21:43:34.072 - Evenement 1: Type 3
+31-08-2023 21:43:35.028 - Lecture demandée
+31-08-2023 21:43:35.029 - Evenement 2: Type 0
+31-08-2023 21:43:35.498 - Lecture demandée
+31-08-2023 21:43:35.499 - Evenement 3: Type 0
+31-08-2023 21:43:36.034 - Autre événement
+31-08-2023 21:43:36.035 - Evenement 4: Type 2
+31-08-2023 21:43:36.848 - Lecture demandée
+31-08-2023 21:43:36.848 - Evenement 5: Type 0
+31-08-2023 21:43:36.985 - Autre événement
+31-08-2023 21:43:36.986 - Evenement 6: Type 2
+31-08-2023 21:43:37.629 - Autre événement
+31-08-2023 21:43:37.630 - Evenement 7: Type 2
+31-08-2023 21:43:38.110 - Lecture demandée
+31-08-2023 21:43:38.111 - Evenement 8: Type 0
+31-08-2023 21:43:38.471 - Evenement 9: Type 4
+31-08-2023 21:43:38.703 - Ecriture demandée
+31-08-2023 21:43:38.704 - Evenement 10: Type 1
+31-08-2023 21:44:38.482 - Autre événement
+31-08-2023 21:44:38.497 - Evenement 1: Type 2
+31-08-2023 21:44:38.802 - Lecture demandée
+31-08-2023 21:44:38.803 - Evenement 2: Type 0
+31-08-2023 21:44:39.322 - Evenement 3: Type 4
+31-08-2023 21:44:39.359 - Evenement 4: Type 4
+31-08-2023 21:44:40.120 - Ecriture demandée
+31-08-2023 21:44:40.121 - Evenement 5: Type 1
+31-08-2023 21:44:40.664 - Lecture demandée
+31-08-2023 21:44:40.665 - Evenement 6: Type 0
+31-08-2023 21:44:40.703 - Autre événement
+31-08-2023 21:44:40.704 - Evenement 7: Type 2
+31-08-2023 21:44:41.115 - Ecriture demandée
+31-08-2023 21:44:41.116 - Evenement 8: Type 1
+31-08-2023 21:44:41.981 - Autre événement
+31-08-2023 21:44:41.981 - Evenement 9: Type 2
+31-08-2023 21:44:42.242 - Evenement 10: Type 4
+31-08-2023 21:44:43.093 - Autre événement aleatoire
+31-08-2023 21:44:43.093 - Evenement 11: Type 3
+31-08-2023 21:44:43.954 - Evenement 12: Type 4
+31-08-2023 21:44:44.337 - Lecture demandée
+31-08-2023 21:44:44.338 - Evenement 13: Type 0
+31-08-2023 21:44:44.368 - Ecriture demandée
+31-08-2023 21:44:44.368 - Evenement 14: Type 1
+31-08-2023 21:44:45.092 - Autre événement
+31-08-2023 21:44:45.092 - Evenement 15: Type 2
+31-08-2023 21:44:45.433 - Evenement 16: Type 4
+31-08-2023 21:44:45.832 - Lecture demandée
+31-08-2023 21:44:45.833 - Evenement 17: Type 0
+31-08-2023 21:44:46.262 - Evenement 18: Type 4
+31-08-2023 21:44:47.070 - Lecture demandée
+31-08-2023 21:44:47.071 - Evenement 19: Type 0
+31-08-2023 21:44:48.057 - Autre événement
+31-08-2023 21:44:48.057 - Evenement 20: Type 2
+31-08-2023 21:44:48.383 - Autre événement
+31-08-2023 21:44:48.383 - Evenement 21: Type 2
+31-08-2023 21:44:48.577 - Ecriture demandée
+31-08-2023 21:44:48.578 - Evenement 22: Type 1
+31-08-2023 21:44:49.355 - Autre événement aleatoire
+31-08-2023 21:44:49.356 - Evenement 23: Type 3
+31-08-2023 21:44:49.388 - Evenement 24: Type 4
+31-08-2023 21:44:50.128 - Ecriture demandée
+31-08-2023 21:44:50.129 - Evenement 25: Type 1
+31-08-2023 21:44:50.196 - Autre événement aleatoire
+31-08-2023 21:44:50.197 - Evenement 26: Type 3
+31-08-2023 21:44:50.751 - Autre événement
+31-08-2023 21:44:50.752 - Evenement 27: Type 2
+31-08-2023 21:44:51.500 - Autre événement
+31-08-2023 21:44:51.502 - Evenement 28: Type 2
+31-08-2023 21:44:51.557 - Ecriture demandée
+31-08-2023 21:44:51.558 - Evenement 29: Type 1
+31-08-2023 21:44:52.101 - Autre événement
+31-08-2023 21:44:52.102 - Evenement 30: Type 2
+31-08-2023 21:44:52.739 - Autre événement aleatoire
+31-08-2023 21:44:52.740 - Evenement 31: Type 3
+31-08-2023 21:44:53.051 - Autre événement
+31-08-2023 21:44:53.052 - Evenement 32: Type 2
+31-08-2023 21:44:53.499 - Lecture demandée
+31-08-2023 21:44:53.499 - Evenement 33: Type 0
+31-08-2023 21:44:53.632 - Autre événement
+31-08-2023 21:44:53.632 - Evenement 34: Type 2
+31-08-2023 21:44:54.575 - Evenement 35: Type 4
+31-08-2023 21:44:55.280 - Autre événement
+31-08-2023 21:44:55.281 - Evenement 36: Type 2
+31-08-2023 21:44:55.437 - Evenement 37: Type 4
+31-08-2023 21:44:56.129 - Autre événement aleatoire
+31-08-2023 21:44:56.129 - Evenement 38: Type 3
+31-08-2023 21:44:56.823 - Autre événement aleatoire
+31-08-2023 21:44:56.823 - Evenement 39: Type 3
+31-08-2023 21:44:57.162 - Autre événement aleatoire
+31-08-2023 21:44:57.162 - Evenement 40: Type 3
+31-08-2023 21:44:58.066 - Evenement 41: Type 4
+31-08-2023 21:44:58.413 - Autre événement
+31-08-2023 21:44:58.413 - Evenement 42: Type 2
+31-08-2023 21:44:58.778 - Evenement 43: Type 4
+31-08-2023 21:44:59.290 - Evenement 44: Type 4
+31-08-2023 21:44:59.535 - Autre événement aleatoire
+31-08-2023 21:44:59.536 - Evenement 45: Type 3
+31-08-2023 21:45:00.289 - Lecture demandée
+31-08-2023 21:45:00.289 - Evenement 46: Type 0
+31-08-2023 21:45:01.138 - Lecture demandée
+31-08-2023 21:45:01.139 - Evenement 47: Type 0
+31-08-2023 21:45:01.865 - Autre événement
+31-08-2023 21:45:01.865 - Evenement 48: Type 2
+31-08-2023 21:45:02.346 - Autre événement
+31-08-2023 21:45:02.346 - Evenement 49: Type 2
+31-08-2023 21:45:02.618 - Autre événement aleatoire
+31-08-2023 21:45:02.618 - Evenement 50: Type 3
+31-08-2023 21:45:02.642 - Autre événement
+31-08-2023 21:45:02.642 - Evenement 51: Type 2
+31-08-2023 21:45:02.802 - Evenement 52: Type 4
+31-08-2023 21:45:03.288 - Evenement 53: Type 4
+31-08-2023 21:45:04.147 - Evenement 54: Type 4
+31-08-2023 21:45:04.595 - Evenement 55: Type 4
+31-08-2023 21:45:04.762 - Lecture demandée
+31-08-2023 21:45:04.763 - Evenement 56: Type 0
+31-08-2023 21:45:05.709 - Autre événement
+31-08-2023 21:45:05.710 - Evenement 57: Type 2
+31-08-2023 21:45:06.376 - Ecriture demandée
+31-08-2023 21:45:06.376 - Evenement 58: Type 1
+31-08-2023 21:45:06.717 - Evenement 59: Type 4
+31-08-2023 21:45:07.502 - Lecture demandée
+31-08-2023 21:45:07.503 - Evenement 60: Type 0
+31-08-2023 21:45:08.403 - Evenement 61: Type 4
+31-08-2023 21:45:08.683 - Autre événement aleatoire
+31-08-2023 21:45:08.683 - Evenement 62: Type 3
+31-08-2023 21:45:09.525 - Autre événement aleatoire
+31-08-2023 21:45:09.526 - Evenement 63: Type 3
+31-08-2023 21:45:09.549 - Ecriture demandée
+31-08-2023 21:45:09.549 - Evenement 64: Type 1
+31-08-2023 21:45:10.131 - Ecriture demandée
+31-08-2023 21:45:10.132 - Evenement 65: Type 1
+31-08-2023 21:45:10.847 - Lecture demandée
+31-08-2023 21:45:10.848 - Evenement 66: Type 0
+31-08-2023 21:45:11.418 - Lecture demandée
+31-08-2023 21:45:11.419 - Evenement 67: Type 0
+31-08-2023 21:45:11.892 - Ecriture demandée
+31-08-2023 21:45:11.893 - Evenement 68: Type 1
+31-08-2023 21:45:12.337 - Lecture demandée
+31-08-2023 21:45:12.338 - Evenement 69: Type 0
+31-08-2023 21:45:12.816 - Autre événement
+31-08-2023 21:45:12.817 - Evenement 70: Type 2
+31-08-2023 21:45:13.061 - Lecture demandée
+31-08-2023 21:45:13.061 - Evenement 71: Type 0
+31-08-2023 21:45:13.979 - Evenement 72: Type 4
+31-08-2023 21:45:14.050 - Evenement 73: Type 4
+31-08-2023 21:45:14.225 - Lecture demandée
+31-08-2023 21:45:14.226 - Evenement 74: Type 0
+31-08-2023 21:45:14.551 - Lecture demandée
+31-08-2023 21:45:14.551 - Evenement 75: Type 0
+31-08-2023 21:45:14.786 - Lecture demandée
+31-08-2023 21:45:14.786 - Evenement 76: Type 0
+31-08-2023 21:45:15.487 - Evenement 77: Type 4
+31-08-2023 21:45:15.868 - Autre événement
+31-08-2023 21:45:15.868 - Evenement 78: Type 2
+31-08-2023 21:45:16.530 - Evenement 79: Type 4
+31-08-2023 21:45:16.900 - Evenement 80: Type 4
+31-08-2023 21:45:17.559 - Ecriture demandée
+31-08-2023 21:45:17.559 - Evenement 81: Type 1
+31-08-2023 21:45:17.641 - Autre événement
+31-08-2023 21:45:17.642 - Evenement 82: Type 2
+31-08-2023 21:45:18.281 - Autre événement
+31-08-2023 21:45:18.281 - Evenement 83: Type 2
+31-08-2023 21:45:18.922 - Autre événement
+31-08-2023 21:45:18.923 - Evenement 84: Type 2
+31-08-2023 21:45:19.729 - Ecriture demandée
+31-08-2023 21:45:19.730 - Evenement 85: Type 1
+31-08-2023 21:45:20.637 - Ecriture demandée
+31-08-2023 21:45:20.638 - Evenement 86: Type 1
+31-08-2023 21:45:21.477 - Lecture demandée
+31-08-2023 21:45:21.478 - Evenement 87: Type 0
+31-08-2023 21:45:22.115 - Autre événement
+31-08-2023 21:45:22.115 - Evenement 88: Type 2
+31-08-2023 21:45:22.903 - Evenement 89: Type 4
+31-08-2023 21:45:23.709 - Lecture demandée
+31-08-2023 21:45:23.709 - Evenement 90: Type 0
+31-08-2023 21:45:24.568 - Ecriture demandée
+31-08-2023 21:45:24.568 - Evenement 91: Type 1
+31-08-2023 21:45:25.082 - Evenement 92: Type 4
+31-08-2023 21:45:25.407 - Lecture demandée
+31-08-2023 21:45:25.408 - Evenement 93: Type 0
+31-08-2023 21:45:26.235 - Evenement 94: Type 4
+31-08-2023 21:45:26.802 - Ecriture demandée
+31-08-2023 21:45:26.802 - Evenement 95: Type 1
+31-08-2023 21:45:27.615 - Autre événement
+31-08-2023 21:45:27.616 - Evenement 96: Type 2
+31-08-2023 21:45:28.524 - Autre événement
+31-08-2023 21:45:28.525 - Evenement 97: Type 2
+31-08-2023 21:45:28.690 - Ecriture demandée
+31-08-2023 21:45:28.691 - Evenement 98: Type 1
+31-08-2023 21:45:29.517 - Autre événement aleatoire
+31-08-2023 21:45:29.517 - Evenement 99: Type 3
+31-08-2023 21:45:29.803 - Ecriture demandée
+31-08-2023 21:45:29.804 - Evenement 100: Type 1
+09-09-2023 22:09:23.326 - Autre événement aleatoire
+09-09-2023 22:09:23.344 - Evenement 1: Type 3
+09-09-2023 22:09:23.932 - Ecriture demandée
+09-09-2023 22:09:23.932 - Evenement 2: Type 1
+09-09-2023 22:09:24.018 - Evenement 3: Type 4
+09-09-2023 22:09:24.178 - Lecture demandée
+09-09-2023 22:09:24.182 - Evenement 4: Type 0
+09-09-2023 22:09:24.850 - Lecture demandée
+09-09-2023 22:09:24.850 - Evenement 5: Type 0
+09-09-2023 22:09:25.322 - Evenement 6: Type 4
+09-09-2023 22:09:25.621 - Ecriture demandée
+09-09-2023 22:09:25.621 - Evenement 7: Type 1
+09-09-2023 22:09:25.926 - Autre événement
+09-09-2023 22:09:25.927 - Evenement 8: Type 2
+09-09-2023 22:09:26.606 - Evenement 9: Type 4
+09-09-2023 22:09:26.624 - Autre événement aleatoire
+09-09-2023 22:09:26.625 - Evenement 10: Type 3
+09-09-2023 22:09:27.572 - Ecriture demandée
+09-09-2023 22:09:27.573 - Evenement 11: Type 1
+09-09-2023 22:09:27.797 - Autre événement
+09-09-2023 22:09:27.797 - Evenement 12: Type 2
+09-09-2023 22:09:28.665 - Lecture demandée
+09-09-2023 22:09:28.666 - Evenement 13: Type 0
+09-09-2023 22:09:29.571 - Lecture demandée
+09-09-2023 22:09:29.571 - Evenement 14: Type 0
+09-09-2023 22:09:29.941 - Lecture demandée
+09-09-2023 22:09:29.941 - Evenement 15: Type 0
+09-09-2023 22:09:30.626 - Autre événement aleatoire
+09-09-2023 22:09:30.627 - Evenement 16: Type 3
+09-09-2023 22:09:30.852 - Evenement 17: Type 4
+09-09-2023 22:09:31.019 - Evenement 18: Type 4
+09-09-2023 22:09:31.973 - Evenement 19: Type 4
+09-09-2023 22:09:32.521 - Ecriture demandée
+09-09-2023 22:09:32.521 - Evenement 20: Type 1
+09-09-2023 22:09:32.895 - Autre événement aleatoire
+09-09-2023 22:09:32.895 - Evenement 21: Type 3
+09-09-2023 22:09:33.292 - Autre événement
+09-09-2023 22:09:33.292 - Evenement 22: Type 2
+09-09-2023 22:09:34.260 - Ecriture demandée
+09-09-2023 22:09:34.260 - Evenement 23: Type 1
+09-09-2023 22:09:34.666 - Lecture demandée
+09-09-2023 22:09:34.666 - Evenement 24: Type 0
+09-09-2023 22:09:35.059 - Evenement 25: Type 4
+09-09-2023 22:09:35.790 - Autre événement
+09-09-2023 22:09:35.790 - Evenement 26: Type 2
+09-09-2023 22:09:35.809 - Ecriture demandée
+09-09-2023 22:09:35.810 - Evenement 27: Type 1
+09-09-2023 22:09:35.990 - Ecriture demandée
+09-09-2023 22:09:35.990 - Evenement 28: Type 1
+09-09-2023 22:09:36.716 - Ecriture demandée
+09-09-2023 22:09:36.716 - Evenement 29: Type 1
+09-09-2023 22:09:37.294 - Autre événement aleatoire
+09-09-2023 22:09:37.295 - Evenement 30: Type 3
+09-09-2023 22:09:37.585 - Evenement 31: Type 4
+09-09-2023 22:09:38.095 - Autre événement aleatoire
+09-09-2023 22:09:38.095 - Evenement 32: Type 3
+09-09-2023 22:09:38.704 - Lecture demandée
+09-09-2023 22:09:38.705 - Evenement 33: Type 0
+09-09-2023 22:09:39.104 - Ecriture demandée
+09-09-2023 22:09:39.104 - Evenement 34: Type 1
+09-09-2023 22:09:39.930 - Evenement 35: Type 4
+09-09-2023 22:09:40.323 - Ecriture demandée
+09-09-2023 22:09:40.324 - Evenement 36: Type 1
+09-09-2023 22:09:41.182 - Autre événement aleatoire
+09-09-2023 22:09:41.183 - Evenement 37: Type 3
+09-09-2023 22:09:42.081 - Evenement 38: Type 4
+09-09-2023 22:09:42.090 - Evenement 39: Type 4
+09-09-2023 22:09:42.165 - Lecture demandée
+09-09-2023 22:09:42.165 - Evenement 40: Type 0
+09-09-2023 22:09:43.149 - Lecture demandée
+09-09-2023 22:09:43.149 - Evenement 41: Type 0
+09-09-2023 22:09:43.503 - Autre événement aleatoire
+09-09-2023 22:09:43.503 - Evenement 42: Type 3
+09-09-2023 22:09:43.523 - Evenement 43: Type 4
+09-09-2023 22:09:44.426 - Ecriture demandée
+09-09-2023 22:09:44.426 - Evenement 44: Type 1
+09-09-2023 22:09:44.569 - Autre événement
+09-09-2023 22:09:44.570 - Evenement 45: Type 2
+09-09-2023 22:09:45.508 - Autre événement aleatoire
+09-09-2023 22:09:45.509 - Evenement 46: Type 3
+09-09-2023 22:09:46.134 - Autre événement aleatoire
+09-09-2023 22:09:46.134 - Evenement 47: Type 3
+09-09-2023 22:09:46.217 - Evenement 48: Type 4
+09-09-2023 22:09:46.342 - Lecture demandée
+09-09-2023 22:09:46.343 - Evenement 49: Type 0
+09-09-2023 22:09:47.010 - Lecture demandée
+09-09-2023 22:09:47.011 - Evenement 50: Type 0
+09-09-2023 22:09:47.609 - Autre événement
+09-09-2023 22:09:47.610 - Evenement 51: Type 2
+09-09-2023 22:09:47.888 - Lecture demandée
+09-09-2023 22:09:47.888 - Evenement 52: Type 0
+09-09-2023 22:09:48.836 - Autre événement aleatoire
+09-09-2023 22:09:48.836 - Evenement 53: Type 3
+09-09-2023 22:09:49.696 - Evenement 54: Type 4
+09-09-2023 22:09:50.402 - Evenement 55: Type 4
+09-09-2023 22:09:50.932 - Lecture demandée
+09-09-2023 22:09:50.933 - Evenement 56: Type 0
+09-09-2023 22:09:50.981 - Autre événement
+09-09-2023 22:09:50.982 - Evenement 57: Type 2
+09-09-2023 22:09:51.390 - Autre événement
+09-09-2023 22:09:51.391 - Evenement 58: Type 2
+09-09-2023 22:09:52.294 - Ecriture demandée
+09-09-2023 22:09:52.295 - Evenement 59: Type 1
+09-09-2023 22:09:52.529 - Evenement 60: Type 4
+09-09-2023 22:09:52.828 - Evenement 61: Type 4
+09-09-2023 22:09:53.547 - Autre événement
+09-09-2023 22:09:53.547 - Evenement 62: Type 2
+09-09-2023 22:09:54.359 - Ecriture demandée
+09-09-2023 22:09:54.359 - Evenement 63: Type 1
+09-09-2023 22:09:54.698 - Evenement 64: Type 4
+09-09-2023 22:09:54.776 - Lecture demandée
+09-09-2023 22:09:54.776 - Evenement 65: Type 0
+09-09-2023 22:09:55.496 - Lecture demandée
+09-09-2023 22:09:55.496 - Evenement 66: Type 0
+09-09-2023 22:09:56.330 - Lecture demandée
+09-09-2023 22:09:56.331 - Evenement 67: Type 0
+09-09-2023 22:09:56.938 - Lecture demandée
+09-09-2023 22:09:56.939 - Evenement 68: Type 0
+09-09-2023 22:09:57.153 - Autre événement
+09-09-2023 22:09:57.154 - Evenement 69: Type 2
+09-09-2023 22:09:57.714 - Evenement 70: Type 4
+09-09-2023 22:09:58.128 - Autre événement
+09-09-2023 22:09:58.128 - Evenement 71: Type 2
+09-09-2023 22:09:58.862 - Autre événement aleatoire
+09-09-2023 22:09:58.862 - Evenement 72: Type 3
+09-09-2023 22:09:59.671 - Autre événement
+09-09-2023 22:09:59.671 - Evenement 73: Type 2
+09-09-2023 22:09:59.928 - Evenement 74: Type 4
+09-09-2023 22:10:00.920 - Evenement 75: Type 4
+09-09-2023 22:10:01.860 - Ecriture demandée
+09-09-2023 22:10:01.860 - Evenement 76: Type 1
+09-09-2023 22:10:02.315 - Evenement 77: Type 4
+09-09-2023 22:10:02.710 - Autre événement aleatoire
+09-09-2023 22:10:02.711 - Evenement 78: Type 3
+09-09-2023 22:10:03.587 - Autre événement
+09-09-2023 22:10:03.588 - Evenement 79: Type 2
+09-09-2023 22:10:04.300 - Ecriture demandée
+09-09-2023 22:10:04.300 - Evenement 80: Type 1
+09-09-2023 22:10:05.081 - Autre événement
+09-09-2023 22:10:05.082 - Evenement 81: Type 2
+09-09-2023 22:10:05.625 - Evenement 82: Type 4
+09-09-2023 22:10:06.127 - Evenement 83: Type 4
+09-09-2023 22:10:06.976 - Lecture demandée
+09-09-2023 22:10:06.976 - Evenement 84: Type 0
+09-09-2023 22:10:07.553 - Ecriture demandée
+09-09-2023 22:10:07.553 - Evenement 85: Type 1
+09-09-2023 22:10:08.309 - Autre événement aleatoire
+09-09-2023 22:10:08.310 - Evenement 86: Type 3
+09-09-2023 22:10:08.699 - Ecriture demandée
+09-09-2023 22:10:08.700 - Evenement 87: Type 1
+09-09-2023 22:10:09.029 - Autre événement aleatoire
+09-09-2023 22:10:09.029 - Evenement 88: Type 3
+09-09-2023 22:10:09.691 - Autre événement aleatoire
+09-09-2023 22:10:09.692 - Evenement 89: Type 3
+09-09-2023 22:10:10.396 - Autre événement
+09-09-2023 22:10:10.396 - Evenement 90: Type 2
+09-09-2023 22:10:11.159 - Ecriture demandée
+09-09-2023 22:10:11.160 - Evenement 91: Type 1
+09-09-2023 22:10:11.613 - Ecriture demandée
+09-09-2023 22:10:11.613 - Evenement 92: Type 1
+09-09-2023 22:10:11.660 - Autre événement aleatoire
+09-09-2023 22:10:11.661 - Evenement 93: Type 3
+09-09-2023 22:10:12.080 - Evenement 94: Type 4
+09-09-2023 22:10:12.849 - Autre événement aleatoire
+09-09-2023 22:10:12.850 - Evenement 95: Type 3
+09-09-2023 22:10:13.647 - Autre événement
+09-09-2023 22:10:13.648 - Evenement 96: Type 2
+09-09-2023 22:10:14.083 - Evenement 97: Type 4
+09-09-2023 22:10:14.099 - Autre événement
+09-09-2023 22:10:14.099 - Evenement 98: Type 2
+09-09-2023 22:10:14.724 - Ecriture demandée
+09-09-2023 22:10:14.724 - Evenement 99: Type 1
+09-09-2023 22:10:14.801 - Autre événement aleatoire
+09-09-2023 22:10:14.801 - Evenement 100: Type 3
+09-09-2023 22:12:17.641 - Ecriture demandée
+09-09-2023 22:12:17.675 - Evenement 1: Type 1
+09-09-2023 22:12:18.279 - Autre événement
+09-09-2023 22:12:18.280 - Evenement 2: Type 2
+09-09-2023 22:12:18.996 - Autre événement
+09-09-2023 22:12:18.997 - Evenement 3: Type 2
+09-09-2023 22:12:19.002 - Autre événement aleatoire
+09-09-2023 22:12:19.003 - Evenement 4: Type 3
+09-09-2023 22:12:19.308 - Lecture demandée
+09-09-2023 22:12:19.317 - Evenement 5: Type 0
+09-09-2023 22:12:19.734 - Lecture demandée
+09-09-2023 22:12:19.735 - Evenement 6: Type 0
+09-09-2023 22:12:19.855 - Autre événement aleatoire
+09-09-2023 22:12:19.856 - Evenement 7: Type 3
+09-09-2023 22:12:20.315 - Evenement 8: Type 4
+09-09-2023 22:12:20.378 - Evenement 9: Type 4
+09-09-2023 22:12:21.006 - Ecriture demandée
+09-09-2023 22:12:21.007 - Evenement 10: Type 1
+09-09-2023 22:12:21.657 - Evenement 11: Type 4
+09-09-2023 22:12:21.863 - Evenement 12: Type 4
+09-09-2023 22:12:22.640 - Lecture demandée
+09-09-2023 22:12:22.641 - Evenement 13: Type 0
+09-09-2023 22:12:23.379 - Ecriture demandée
+09-09-2023 22:12:23.380 - Evenement 14: Type 1
+09-09-2023 22:12:23.556 - Lecture demandée
+09-09-2023 22:12:23.557 - Evenement 15: Type 0
+09-09-2023 22:12:24.339 - Evenement 16: Type 4
+09-09-2023 22:12:25.007 - Ecriture demandée
+09-09-2023 22:12:25.008 - Evenement 17: Type 1
+09-09-2023 22:12:25.367 - Evenement 18: Type 4
+09-09-2023 22:12:25.445 - Ecriture demandée
+09-09-2023 22:12:25.446 - Evenement 19: Type 1
+09-09-2023 22:12:25.474 - Autre événement
+09-09-2023 22:12:25.475 - Evenement 20: Type 2
+09-09-2023 22:12:26.043 - Autre événement aleatoire
+09-09-2023 22:12:26.044 - Evenement 21: Type 3
+09-09-2023 22:12:26.498 - Lecture demandée
+09-09-2023 22:12:26.498 - Evenement 22: Type 0
+09-09-2023 22:12:27.505 - Lecture demandée
+09-09-2023 22:12:27.505 - Evenement 23: Type 0
+09-09-2023 22:12:28.377 - Lecture demandée
+09-09-2023 22:12:28.378 - Evenement 24: Type 0
+09-09-2023 22:12:28.517 - Evenement 25: Type 4
+09-09-2023 22:12:28.564 - Evenement 26: Type 4
+09-09-2023 22:12:28.826 - Autre événement aleatoire
+09-09-2023 22:12:28.827 - Evenement 27: Type 3
+09-09-2023 22:12:29.749 - Evenement 28: Type 4
+09-09-2023 22:12:30.391 - Lecture demandée
+09-09-2023 22:12:30.391 - Evenement 29: Type 0
+09-09-2023 22:12:30.911 - Lecture demandée
+09-09-2023 22:12:30.912 - Evenement 30: Type 0
+09-09-2023 22:12:31.855 - Evenement 31: Type 4
+09-09-2023 22:12:32.202 - Lecture demandée
+09-09-2023 22:12:32.203 - Evenement 32: Type 0
+09-09-2023 22:12:32.514 - Evenement 33: Type 4
+09-09-2023 22:12:32.734 - Ecriture demandée
+09-09-2023 22:12:32.734 - Evenement 34: Type 1
+09-09-2023 22:12:33.590 - Autre événement aleatoire
+09-09-2023 22:12:33.590 - Evenement 35: Type 3
+09-09-2023 22:12:34.435 - Autre événement
+09-09-2023 22:12:34.436 - Evenement 36: Type 2
+09-09-2023 22:12:34.717 - Evenement 37: Type 4
+09-09-2023 22:12:35.216 - Autre événement
+09-09-2023 22:12:35.217 - Evenement 38: Type 2
+09-09-2023 22:12:35.483 - Autre événement aleatoire
+09-09-2023 22:12:35.483 - Evenement 39: Type 3
+09-09-2023 22:12:36.217 - Lecture demandée
+09-09-2023 22:12:36.217 - Evenement 40: Type 0
+09-09-2023 22:12:36.923 - Autre événement aleatoire
+09-09-2023 22:12:36.924 - Evenement 41: Type 3
+09-09-2023 22:12:37.095 - Ecriture demandée
+09-09-2023 22:12:37.096 - Evenement 42: Type 1
+09-09-2023 22:12:38.019 - Lecture demandée
+09-09-2023 22:12:38.019 - Evenement 43: Type 0
+09-09-2023 22:12:38.160 - Autre événement
+09-09-2023 22:12:38.161 - Evenement 44: Type 2
+09-09-2023 22:12:38.628 - Autre événement
+09-09-2023 22:12:38.629 - Evenement 45: Type 2
+09-09-2023 22:12:39.315 - Ecriture demandée
+09-09-2023 22:12:39.315 - Evenement 46: Type 1
+09-09-2023 22:12:39.661 - Autre événement
+09-09-2023 22:12:39.661 - Evenement 47: Type 2
+09-09-2023 22:12:40.238 - Ecriture demandée
+09-09-2023 22:12:40.239 - Evenement 48: Type 1
+09-09-2023 22:12:40.942 - Ecriture demandée
+09-09-2023 22:12:40.943 - Evenement 49: Type 1
+09-09-2023 22:12:41.878 - Ecriture demandée
+09-09-2023 22:12:41.881 - Evenement 50: Type 1
+09-09-2023 22:12:42.129 - Ecriture demandée
+09-09-2023 22:12:42.130 - Evenement 51: Type 1
+09-09-2023 22:12:42.238 - Lecture demandée
+09-09-2023 22:12:42.238 - Evenement 52: Type 0
+09-09-2023 22:12:42.737 - Autre événement
+09-09-2023 22:12:42.738 - Evenement 53: Type 2
+09-09-2023 22:12:43.436 - Evenement 54: Type 4
+09-09-2023 22:12:43.858 - Evenement 55: Type 4
+09-09-2023 22:12:44.139 - Ecriture demandée
+09-09-2023 22:12:44.139 - Evenement 56: Type 1
+09-09-2023 22:12:44.576 - Ecriture demandée
+09-09-2023 22:12:44.576 - Evenement 57: Type 1
+09-09-2023 22:12:45.156 - Evenement 58: Type 4
+09-09-2023 22:12:45.638 - Lecture demandée
+09-09-2023 22:12:45.638 - Evenement 59: Type 0
+09-09-2023 22:12:46.077 - Ecriture demandée
+09-09-2023 22:12:46.078 - Evenement 60: Type 1
+09-09-2023 22:12:46.344 - Autre événement
+09-09-2023 22:12:46.345 - Evenement 61: Type 2
+09-09-2023 22:12:46.610 - Ecriture demandée
+09-09-2023 22:12:46.610 - Evenement 62: Type 1
+09-09-2023 22:12:46.940 - Autre événement aleatoire
+09-09-2023 22:12:46.940 - Evenement 63: Type 3
+09-09-2023 22:12:47.141 - Evenement 64: Type 4
+09-09-2023 22:12:48.110 - Autre événement aleatoire
+09-09-2023 22:12:48.110 - Evenement 65: Type 3
+09-09-2023 22:12:48.299 - Evenement 66: Type 4
+09-09-2023 22:12:49.084 - Lecture demandée
+09-09-2023 22:12:49.084 - Evenement 67: Type 0
+09-09-2023 22:12:49.287 - Ecriture demandée
+09-09-2023 22:12:49.287 - Evenement 68: Type 1
+09-09-2023 22:12:49.648 - Ecriture demandée
+09-09-2023 22:12:49.649 - Evenement 69: Type 1
+09-09-2023 22:12:50.259 - Ecriture demandée
+09-09-2023 22:12:50.259 - Evenement 70: Type 1
+09-09-2023 22:12:50.492 - Autre événement
+09-09-2023 22:12:50.492 - Evenement 71: Type 2
+09-09-2023 22:12:51.498 - Autre événement aleatoire
+09-09-2023 22:12:51.498 - Evenement 72: Type 3
+09-09-2023 22:12:51.568 - Lecture demandée
+09-09-2023 22:12:51.569 - Evenement 73: Type 0
+09-09-2023 22:12:51.596 - Evenement 74: Type 4
+09-09-2023 22:12:52.359 - Autre événement
+09-09-2023 22:12:52.359 - Evenement 75: Type 2
+09-09-2023 22:12:52.916 - Autre événement
+09-09-2023 22:12:52.917 - Evenement 76: Type 2
+09-09-2023 22:12:53.287 - Lecture demandée
+09-09-2023 22:12:53.287 - Evenement 77: Type 0
+09-09-2023 22:12:53.882 - Autre événement
+09-09-2023 22:12:53.883 - Evenement 78: Type 2
+09-09-2023 22:12:54.145 - Lecture demandée
+09-09-2023 22:12:54.146 - Evenement 79: Type 0
+09-09-2023 22:12:54.154 - Autre événement aleatoire
+09-09-2023 22:12:54.155 - Evenement 80: Type 3
+09-09-2023 22:12:54.341 - Autre événement aleatoire
+09-09-2023 22:12:54.342 - Evenement 81: Type 3
+09-09-2023 22:12:54.955 - Autre événement aleatoire
+09-09-2023 22:12:54.955 - Evenement 82: Type 3
+09-09-2023 22:12:55.345 - Ecriture demandée
+09-09-2023 22:12:55.345 - Evenement 83: Type 1
+09-09-2023 22:12:56.034 - Ecriture demandée
+09-09-2023 22:12:56.034 - Evenement 84: Type 1
+09-09-2023 22:12:56.655 - Evenement 85: Type 4
+09-09-2023 22:12:56.998 - Ecriture demandée
+09-09-2023 22:12:56.999 - Evenement 86: Type 1
+09-09-2023 22:12:57.680 - Evenement 87: Type 4
+09-09-2023 22:12:58.374 - Evenement 88: Type 4
+09-09-2023 22:12:58.879 - Evenement 89: Type 4
+09-09-2023 22:12:59.712 - Autre événement aleatoire
+09-09-2023 22:12:59.713 - Evenement 90: Type 3
+09-09-2023 22:12:59.772 - Autre événement aleatoire
+09-09-2023 22:12:59.772 - Evenement 91: Type 3
+09-09-2023 22:12:59.931 - Autre événement
+09-09-2023 22:12:59.932 - Evenement 92: Type 2
+09-09-2023 22:12:59.940 - Evenement 93: Type 4
+09-09-2023 22:13:00.374 - Autre événement
+09-09-2023 22:13:00.374 - Evenement 94: Type 2
+09-09-2023 22:13:01.278 - Lecture demandée
+09-09-2023 22:13:01.279 - Evenement 95: Type 0
+09-09-2023 22:13:02.194 - Evenement 96: Type 4
+09-09-2023 22:13:03.167 - Autre événement aleatoire
+09-09-2023 22:13:03.167 - Evenement 97: Type 3
+09-09-2023 22:13:03.714 - Ecriture demandée
+09-09-2023 22:13:03.715 - Evenement 98: Type 1
+09-09-2023 22:13:04.651 - Ecriture demandée
+09-09-2023 22:13:04.652 - Evenement 99: Type 1
+09-09-2023 22:13:05.263 - Ecriture demandée
+09-09-2023 22:13:05.264 - Evenement 100: Type 1
