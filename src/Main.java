@@ -10,7 +10,6 @@ public class Main{
     public static void main(String[] args) {
         String logFilePath = "system_log.txt";
         Log log = new Log(logFilePath);
-
         // INITIALIZE SYSTEM
         SysInit ops = new SysInit();
         ops.SysInitOps();
