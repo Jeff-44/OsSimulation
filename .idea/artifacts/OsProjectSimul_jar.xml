@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OsProjectSimul:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OsProjectSimul_jar</output-path>
+    <root id="archive" name="OsProjectSimul.jar">
+      <element id="module-output" name="OsProjectSimul" />
+    </root>
+  </artifact>
+</component>
