@@ -394,3 +394,71 @@
 15-09-2023 16:22:06.989 - Ecriture demandée
 15-09-2023 16:22:06.990 - Evenement 9: Type 1
 15-09-2023 16:22:07.513 - Evenement 10: Type 4
+15-09-2023 19:33:36.596 - Evenement 1: Type 4
+15-09-2023 19:33:37.383 - Evenement 2: Type 4
+15-09-2023 19:33:37.932 - Evenement 3: Type 4
+15-09-2023 19:33:38.828 - Evenement 4: Type 4
+15-09-2023 19:33:39.368 - Evenement 5: Type 4
+15-09-2023 19:33:39.715 - Autre événement
+15-09-2023 19:33:39.715 - Evenement 6: Type 2
+15-09-2023 19:33:40.501 - Autre événement
+15-09-2023 19:33:40.501 - Evenement 7: Type 2
+15-09-2023 19:33:40.663 - Autre événement aleatoire
+15-09-2023 19:33:40.663 - Evenement 8: Type 3
+15-09-2023 19:33:41.294 - Evenement 9: Type 4
+15-09-2023 19:33:41.390 - Evenement 10: Type 4
+15-09-2023 19:36:06.340 - Autre événement aleatoire
+15-09-2023 19:36:06.387 - Evenement 1: Type 3
+15-09-2023 19:36:06.503 - Autre événement
+15-09-2023 19:36:06.503 - Evenement 2: Type 2
+15-09-2023 19:36:06.914 - Evenement 3: Type 4
+15-09-2023 19:36:07.031 - Autre événement aleatoire
+15-09-2023 19:36:07.031 - Evenement 4: Type 3
+15-09-2023 19:36:07.739 - Autre événement aleatoire
+15-09-2023 19:36:07.739 - Evenement 5: Type 3
+15-09-2023 19:36:07.790 - Autre événement aleatoire
+15-09-2023 19:36:07.790 - Evenement 6: Type 3
+15-09-2023 19:36:08.272 - Autre événement
+15-09-2023 19:36:08.272 - Evenement 7: Type 2
+15-09-2023 19:36:08.825 - Evenement 8: Type 4
+15-09-2023 19:36:09.625 - Autre événement
+15-09-2023 19:36:09.625 - Evenement 9: Type 2
+15-09-2023 19:36:10.556 - Ecriture demandée
+15-09-2023 19:36:10.556 - Evenement 10: Type 1
+15-09-2023 19:37:22.918 - Autre événement
+15-09-2023 19:37:22.950 - Evenement 1: Type 2
+15-09-2023 19:37:23.237 - Lecture demandée
+15-09-2023 19:37:23.237 - Evenement 2: Type 0
+15-09-2023 19:37:23.758 - Autre événement aleatoire
+15-09-2023 19:37:23.761 - Evenement 3: Type 3
+15-09-2023 19:37:24.150 - Ecriture demandée
+15-09-2023 19:37:24.150 - Evenement 4: Type 1
+15-09-2023 19:37:24.358 - Evenement 5: Type 4
+15-09-2023 19:37:24.913 - Evenement 6: Type 4
+15-09-2023 19:37:25.853 - Autre événement
+15-09-2023 19:37:25.857 - Evenement 7: Type 2
+15-09-2023 19:37:26.280 - Lecture demandée
+15-09-2023 19:37:26.280 - Evenement 8: Type 0
+15-09-2023 19:37:26.939 - Autre événement aleatoire
+15-09-2023 19:37:26.939 - Evenement 9: Type 3
+15-09-2023 19:37:27.847 - Autre événement
+15-09-2023 19:37:27.847 - Evenement 10: Type 2
+15-09-2023 19:37:47.430 - Autre événement
+15-09-2023 19:37:47.477 - Evenement 1: Type 2
+15-09-2023 19:37:47.754 - Ecriture demandée
+15-09-2023 19:37:47.754 - Evenement 2: Type 1
+15-09-2023 19:37:48.232 - Autre événement
+15-09-2023 19:37:48.232 - Evenement 3: Type 2
+15-09-2023 19:37:48.968 - Evenement 4: Type 4
+15-09-2023 19:37:49.643 - Lecture demandée
+15-09-2023 19:37:49.643 - Evenement 5: Type 0
+15-09-2023 19:37:50.553 - Lecture demandée
+15-09-2023 19:37:50.553 - Evenement 6: Type 0
+15-09-2023 19:37:50.762 - Ecriture demandée
+15-09-2023 19:37:50.762 - Evenement 7: Type 1
+15-09-2023 19:37:51.658 - Ecriture demandée
+15-09-2023 19:37:51.658 - Evenement 8: Type 1
+15-09-2023 19:37:51.945 - Autre événement aleatoire
+15-09-2023 19:37:51.950 - Evenement 9: Type 3
+15-09-2023 19:37:52.089 - Autre événement aleatoire
+15-09-2023 19:37:52.089 - Evenement 10: Type 3
